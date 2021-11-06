@@ -1,5 +1,5 @@
 <template>
-  <Restaurants/>
+  <Hello/>
 </template>
 
 <script lang="ts">
